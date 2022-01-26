@@ -1,0 +1,11 @@
+.borde_form{
+    border: slategrey solid 2px;
+    padding: 20px;
+}
+.altura_car{
+    max-height: 700px;
+}
+.derechos{
+    color: snow;
+    margin: 0;
+}
